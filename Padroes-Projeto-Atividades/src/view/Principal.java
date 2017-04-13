@@ -3,13 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package padroes.projeto.atividades;
+package view;
 
 /**
  *
  * @author 58086765253
  */
-public class PadroesProjetoAtividades {
+public class Principal {
 
     /**
      * @param args the command line arguments
